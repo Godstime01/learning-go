@@ -1,3 +1,3 @@
-module github.com/godstime01/module
+module example.com/mymodule
 
 go 1.21.6
